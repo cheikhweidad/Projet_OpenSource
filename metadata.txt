@@ -1,0 +1,17 @@
+========================================
+Projet Open Source - Métadonnées
+========================================
+Auteur : Cheikh Ahmed Weidad
+Master : PIA
+Université : Université de Nouakchott
+Date création : Mai 2026
+Version : 1.0
+
+Fichiers inclus :
+- Resume_OpenSource_LaTeX.pdf (document LaTeX)
+- Presentation_OpenSource_Beamer.pdf (présentation Beamer)
+- README.md (description du projet)
+- metadata.txt (ce fichier)
+
+Nombre de commits : 3
+========================================
